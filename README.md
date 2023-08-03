@@ -1,2 +1,1 @@
-# PrepCourse-camilohome
-creado en casa
+Prueba en casa para clonar un repositorio desde github
